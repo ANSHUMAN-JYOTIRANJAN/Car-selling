@@ -26,7 +26,6 @@ ENV/
 # ==============================
 # ML Models (optional but recommended)
 # ==============================
-*.pkl
 *.joblib
 *.h5
 
